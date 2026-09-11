@@ -3,7 +3,7 @@
 Tool for PDB generation from IDA Pro database
 
 Supports:
-* IDA >= 7.4 
+* IDA > 8.4
 
 ## Download
 
